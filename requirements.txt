@@ -1,13 +1,8 @@
 streamlit==1.32.0
 streamlit-autorefresh==1.0.1
 requests==2.31.0
-plotly
 pandas==2.2.1
 numpy==1.26.4
-brotli
-scipy
-nsetools
-beautifulsoup4
-streamlit-autorefresh
 yfinance==0.2.38
 altair==5.2.0
+beautifulsoup4
